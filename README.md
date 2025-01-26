@@ -12,7 +12,7 @@ Les cours sont présentés sous forme de fichiers PDF détaillant les concepts c
 
 ## Structure du Dossier
 
-### 1. [Le Processus ETL](../cours/01_Processus_ETL.pdf)
+### 1. [Le Processus ETL](/cours/01_Processus_ETL.pdf)
 
 Ce cours explique le **Processus ETL (Extract, Transform, Load)**, essentiel pour intégrer des données hétérogènes dans un entrepôt de données. Vous apprendrez les étapes de l'ETL, les outils couramment utilisés, ainsi que les meilleures pratiques pour concevoir des pipelines efficaces.
 
