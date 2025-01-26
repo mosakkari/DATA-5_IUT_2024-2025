@@ -15,14 +15,12 @@ Les cours sont présentés sous forme de fichiers PDF détaillant les concepts c
 
 2. **Exploitation d’un entrepôt de données OLAP (Entrepôt de données ,Cubes
 OLAP et opérations OLAP (roll up, drill down, slice, dice))**
-
-4. **L’Informatique Décisionnelle **  
+3. **L’Informatique Décisionnelle**
    - ( Étude de cas : appliquer des concepts théoriques sur des données réelles pour montrer comment l'OLAP peut être utilisé pour répondre à des questions stratégiques, à l'aide de décision)  
 ---
 
 ## Évaluation
 
-L'évaluation du cours BD5 est répartie comme suit :  
 - **TPs notés** : 40%  
   - Réalisation de travaux pratiques en classe.  
 - **Examen pratique de fin de formation** : 60%  
