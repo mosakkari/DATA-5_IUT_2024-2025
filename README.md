@@ -1,71 +1,48 @@
-# Cours BD5 : Nouveaux paradigmes de base de données
-# Parcours : Développeur IA - IUT La Rochelle 2024-2025
+# Cours - ETL, Entrepôts de Données OLAP et Informatique Décisionnelle
 
-## Plan du cours
+Ce dossier contient les documents de cours pour la matière **ETL, Entrepôts de Données OLAP et Informatique Décisionnelle**. Les cours couvrent les concepts fondamentaux de l'informatique décisionnelle et se concentrent sur les thématiques suivantes :
 
-1. **Les bases de Données Orientées Document**  
-   - Introduction aux bases de données orientées document  
-   - Exemple pratique avec **MongoDB**  
+- **Processus ETL** : Extraction, Transformation et Chargement des données.
+- **Exploitation des Entrepôts de Données OLAP** : Concepts et utilisation.
+- **Informatique Décisionnelle** : Modélisation et analyse.
 
-2. **Les bases de Données Orientées Graphe**  
-   - Concepts des bases de données orientées graphe  
-   - Exemple pratique avec **Neo4j**    
-
-3. **Les bases de Données Orientées Clé-Valeur**  
-   - Principes des bases de données clé-valeur  
-   - Exemple pratique avec **Redis**  
-
-4. **Les bases de Données Orientées Colonnes**  
-   - Fonctionnement des bases de données orientées colonnes  
-   - Exemple pratique avec **Cassandra**  
+Les cours sont présentés sous forme de fichiers PDF détaillant les concepts clés de chaque sujet.
 
 ---
 
-## Évaluation
+## Structure du Dossier
 
-L'évaluation du cours BD5 est répartie comme suit :  
+### 1. [Le Processus ETL](01_Processus_ETL.pdf)
 
-- **TPs notés** : 30%  
-  - Réalisation de travaux pratiques en classe.  
-- **Learning Paths & Mini-projets** : 20%  
-  - Activités menées pendant les séances d'autonomie pour approfondir les notions vues en cours.  
-- **Examen pratique de fin de formation** : 50%  
-  - Une évaluation pratique qui couvre l’ensemble des concepts et technologies abordés.  
+Ce cours explique le **Processus ETL (Extract, Transform, Load)**, essentiel pour intégrer des données hétérogènes dans un entrepôt de données. Vous apprendrez les étapes de l'ETL, les outils couramment utilisés, ainsi que les meilleures pratiques pour concevoir des pipelines efficaces.
+
+### 2. [Exploitation des Entrepôts de Données OLAP](02_Exploitation_OLAP.pdf)
+
+Dans ce module, nous abordons les **Entrepôts de Données OLAP**. Vous découvrirez comment ces entrepôts permettent une analyse multidimensionnelle des données et comment construire des cubes OLAP pour des analyses complexes.
+
+### 3. [Informatique Décisionnelle](03_Informatique_Decisionnelle.pdf)
+
+Ce cours présente les fondations de l'**Informatique Décisionnelle**, y compris la modélisation en étoile et en flocon, l'utilisation de tableaux de bord interactifs, ainsi que les concepts avancés tels que les indicateurs de performance (KPIs).
+
+---
+
+## Objectifs du Cours
+
+L'objectif de ce cours est de vous fournir une compréhension approfondie des processus ETL, de l'utilisation des entrepôts de données OLAP et des principes de l'informatique décisionnelle. Vous apprendrez à concevoir, intégrer et analyser des données dans un contexte décisionnel à travers des études de cas pratiques.
 
 ---
 
-## Objectifs pédagogiques
-
-- Comprendre les principales catégories de bases de données non relationnelles.  
-- Être capable d’utiliser MongoDB, Neo4j, Redis et Cassandra pour répondre à des besoins spécifiques.  
-- Développer une expertise dans le choix et l’utilisation de bases de données adaptées à des cas d’usage réels.  
-
----
 ## Comment Utiliser ce Dossier
 
-1. **Lire les cours** : Chaque fichier PDF contient des explications théoriques sur le type de base de données abordé. Il est conseillé de lire chaque cours dans l'ordre pour avoir une progression logique.
-2. **Importance de la Lecture Collective**
-
-Il est essentiel de noter que la **lecture collective** réalisée en classe est indispensable pour une bonne compréhension des concepts abordés. Plusieurs éléments, explications et détails sont traités en profondeur durant ces séances. Ces moments d'échanges permettent non seulement d'éclaircir des points complexes, mais aussi de discuter des applications pratiques des bases de données abordées.
-
----
-
-3. **Travailler sur les TP** : Pour appliquer les concepts vus dans les cours, référez-vous au dossier [TP](/tp).
-4. **Données** : Les données nécessaires pour exécuter ces TPs se trouvent dans le dossier [ressources](../docs/ressources).
-   Les fichiers volumineux nécessaires pour certains TPs sont disponibles uniquement sur la plateforme **Moodle**.
-   Veillez à les télécharger directement depuis Moodle avant de commencer les exercices correspondants.  
-
-
----
-## Ressources
-
-- [Documentation officielle MongoDB](https://www.mongodb.com/docs)  
-- [Documentation officielle Neo4j](https://neo4j.com/docs)  
-- [Documentation officielle Redis](https://redis.io/docs)  
-- [Documentation officielle Cassandra](https://cassandra.apache.org/doc/latest/)  
+1. **Lire les cours** : Chaque fichier PDF contient des explications théoriques. Lisez-les dans l'ordre pour suivre une progression logique.
+2. **Participer aux séances en classe** : Les concepts clés sont approfondis et illustrés avec des exemples concrets pendant les séances collectives. Ces échanges sont cruciaux pour maîtriser le contenu du cours.
+3. **Travailler sur les TP** : Les exercices pratiques associés se trouvent dans le dossier [TP](../tp). Ces travaux pratiques vous permettront d'appliquer les notions vues en cours.
+4. **Consulter les ressources supplémentaires** : Les fichiers nécessaires pour les TPs sont disponibles dans le dossier [ressources](../docs/ressources). Les fichiers volumineux spécifiques à certains exercices doivent être téléchargés depuis **Moodle**.
 
 ---
 
 ## Contact
 
-Pour toute question ou précision, veuillez me contacter à l’adresse suivante :**msakkari@univ-lr.fr**, **sakkari.tn@gmail.com**.
+Si vous avez des questions sur les cours ou les exercices, vous pouvez me contacter :  
+**Email** : sakkari.tn@gmail.com , msakkari@univ-lr.fr
+
