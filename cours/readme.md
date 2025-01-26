@@ -37,7 +37,7 @@ L'objectif de ce cours est de vous fournir une compréhension approfondie des pr
 1. **Lire les cours** : Chaque fichier PDF contient des explications théoriques. Lisez-les dans l'ordre pour suivre une progression logique.
 2. **Participer aux séances en classe** : Les concepts clés sont approfondis et illustrés avec des exemples concrets pendant les séances collectives. Ces échanges sont cruciaux pour maîtriser le contenu du cours.
 3. **Travailler sur les TP** : Les exercices pratiques associés se trouvent dans le dossier [TP](../tp). Ces travaux pratiques vous permettront d'appliquer les notions vues en cours.
-4. **Consulter les ressources supplémentaires** : Les fichiers nécessaires pour les TPs sont disponibles dans le dossier [ressources](../docs/ressources). Les fichiers volumineux spécifiques à certains exercices doivent être téléchargés depuis **Moodle**.
+4. **Consulter les ressources supplémentaires** : Les fichiers nécessaires pour les TPs sont disponibles dans le dossier [ressources](../ressources). Les fichiers volumineux spécifiques à certains exercices doivent être téléchargés depuis **Moodle**.
 
 ---
 
