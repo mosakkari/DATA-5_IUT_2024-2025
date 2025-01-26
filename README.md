@@ -20,7 +20,7 @@ Ce cours explique le **Processus ETL (Extract, Transform, Load)**, essentiel pou
 
 Dans ce module, nous abordons les **Entrepôts de Données OLAP**. Vous découvrirez comment ces entrepôts permettent une analyse multidimensionnelle des données et comment construire des cubes OLAP pour des analyses complexes.
 
-### 3. [Informatique Décisionnelle](03_Informatique_Decisionnelle.pdf)
+### 3. [Informatique Décisionnelle](../cours/03_Informatique_Decisionnelle.pdf)
 
 Ce cours présente les fondations de l'**Informatique Décisionnelle**, y compris la modélisation en étoile et en flocon, l'utilisation de tableaux de bord interactifs, ainsi que les concepts avancés tels que les indicateurs de performance (KPIs).
 
