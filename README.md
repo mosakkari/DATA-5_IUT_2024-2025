@@ -9,7 +9,26 @@ Ce dossier contient les documents de cours pour la matière **ETL, Entrepôts de
 Les cours sont présentés sous forme de fichiers PDF détaillant les concepts clés de chaque sujet.
 
 ---
+## Plan du cours
 
+1. **Le Processus Extract-Transform-Load (ETL& Airflow, ETL avec Python)** 
+
+2. **Exploitation d’un entrepôt de données OLAP (Entrepôt de données ,Cubes
+OLAP et opérations OLAP (roll up, drill down, slice, dice))**
+
+4. **L’Informatique Décisionnelle **  
+   - ( Étude de cas : appliquer des concepts théoriques sur des données réelles pour montrer comment l'OLAP peut être utilisé pour répondre à des questions stratégiques, à l'aide de décision)  
+---
+
+## Évaluation
+
+L'évaluation du cours BD5 est répartie comme suit :  
+- **TPs notés** : 40%  
+  - Réalisation de travaux pratiques en classe.  
+- **Examen pratique de fin de formation** : 60%  
+  - Une évaluation pratique qui couvre l’ensemble des concepts et technologies abordés.  
+
+---
 ## Structure du Dossier
 
 ### 1. [Le Processus ETL](/cours/01_Processus_ETL.pdf)
