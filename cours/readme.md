@@ -12,11 +12,11 @@ Les cours sont présentés sous forme de fichiers PDF détaillant les concepts c
 
 ## Structure du Dossier
 
-### 1. [Le Processus ETL](01-Le Processus ETL.pdf)
+### 1. [Le Processus ETL](01_Processus_ETL.pdf)
 
 Ce cours explique le **Processus ETL (Extract, Transform, Load)**, essentiel pour intégrer des données hétérogènes dans un entrepôt de données. Vous apprendrez les étapes de l'ETL, les outils couramment utilisés, ainsi que les meilleures pratiques pour concevoir des pipelines efficaces.
 
-### 2. [Exploitation des Entrepôts de Données OLAP](02-entrepot de données OLAP.pdf)
+### 2. [Exploitation des Entrepôts de Données OLAP](02_Exploitation_OLAP.pdf)
 
 Dans ce module, nous abordons les **Entrepôts de Données OLAP**. Vous découvrirez comment ces entrepôts permettent une analyse multidimensionnelle des données et comment construire des cubes OLAP pour des analyses complexes.
 
