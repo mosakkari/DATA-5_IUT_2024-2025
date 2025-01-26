@@ -1,59 +1,48 @@
-# Cours - Nouveaux paradigmes de base de données
+# Cours - ETL, Entrepôts de Données OLAP et Informatique Décisionnelle
 
-Ce dossier contient les documents de cours pour la matière **Nouveaux paradigmes de base de données** (BD5). Les cours abordent les différentes familles de bases de données, à savoir : 
+Ce dossier contient les documents de cours pour la matière **ETL, Entrepôts de Données OLAP et Informatique Décisionnelle**. Les cours couvrent les concepts fondamentaux de l'informatique décisionnelle et se concentrent sur les thématiques suivantes :
 
-- **Bases de données orientées document** : MongoDB
-- **Bases de données orientées graphe** : Neo4j
-- **Bases de données orientées clé-valeur** : Redis
-- **Bases de données orientées colonnes** : Cassandra
+- **Processus ETL** : Extraction, Transformation et Chargement des données.
+- **Exploitation des Entrepôts de Données OLAP** : Concepts et utilisation.
+- **Informatique Décisionnelle** : Modélisation et analyse.
 
-Les cours sont présentés sous forme de fichiers PDF détaillant les concepts clés de chaque type de base de données.
+Les cours sont présentés sous forme de fichiers PDF détaillant les concepts clés de chaque sujet.
 
 ---
 
 ## Structure du Dossier
 
-### 1. [MongoDB - Bases de données orientées document](01_BD_orientes_document_mongodb.pdf)
+### 1. [Le Processus ETL](01_Processus_ETL.pdf)
 
-Dans ce cours, nous explorons **MongoDB**, une base de données orientée document. Vous apprendrez comment stocker, manipuler et interroger des documents JSON à l'aide de MongoDB. 
+Ce cours explique le **Processus ETL (Extract, Transform, Load)**, essentiel pour intégrer des données hétérogènes dans un entrepôt de données. Vous apprendrez les étapes de l'ETL, les outils couramment utilisés, ainsi que les meilleures pratiques pour concevoir des pipelines efficaces.
 
-### 2. [Neo4j - Bases de données orientées graphe](02_BD_orientes_graphe_neo4j.pdf)
+### 2. [Exploitation des Entrepôts de Données OLAP](02_Exploitation_OLAP.pdf)
 
-Ce cours couvre **Neo4j**, une base de données orientée graphe. Vous apprendrez à utiliser des graphes pour représenter des relations complexes entre des entités et à exécuter des requêtes sur ces graphes.
+Dans ce module, nous abordons les **Entrepôts de Données OLAP**. Vous découvrirez comment ces entrepôts permettent une analyse multidimensionnelle des données et comment construire des cubes OLAP pour des analyses complexes.
 
-### 3. [Redis - Études de cas](03_etude_de_cas_etude_de_cas_Redis.pdf)
+### 3. [Informatique Décisionnelle](03_Informatique_Decisionnelle.pdf)
 
-Dans ce module, vous étudierez **Redis**, une base de données clé-valeur utilisée pour le stockage en mémoire, très performante pour des opérations rapides de lecture/écriture.
-
-### 4. [Cassandra - Bases de données orientées colonnes](04_BD_orientes_colonnes_cassandra.pdf)
-
-Enfin, ce cours porte sur **Cassandra**, une base de données orientée colonnes, idéale pour le stockage de grandes quantités de données distribuées et la gestion des données à grande échelle.
+Ce cours présente les fondations de l'**Informatique Décisionnelle**, y compris la modélisation en étoile et en flocon, l'utilisation de tableaux de bord interactifs, ainsi que les concepts avancés tels que les indicateurs de performance (KPIs).
 
 ---
 
 ## Objectifs du Cours
 
-L'objectif de ce cours est de vous fournir une compréhension approfondie des bases de données non relationnelles, avec un focus sur leur architecture, leurs avantages et inconvénients, ainsi que les cas d'usage appropriés pour chaque type de base de données. Vous serez amené à travailler avec les systèmes mentionnés ci-dessus à travers des travaux pratiques et des études de cas.
+L'objectif de ce cours est de vous fournir une compréhension approfondie des processus ETL, de l'utilisation des entrepôts de données OLAP et des principes de l'informatique décisionnelle. Vous apprendrez à concevoir, intégrer et analyser des données dans un contexte décisionnel à travers des études de cas pratiques.
 
 ---
 
 ## Comment Utiliser ce Dossier
 
-1. **Lire les cours** : Chaque fichier PDF contient des explications théoriques sur le type de base de données abordé. Il est conseillé de lire chaque cours dans l'ordre pour avoir une progression logique.
-2. **Importance de la Lecture Collective**
-
-Il est essentiel de noter que la **lecture collective** réalisée en classe est indispensable pour une bonne compréhension des concepts abordés. Plusieurs éléments, explications et détails sont traités en profondeur durant ces séances. Ces moments d'échanges permettent non seulement d'éclaircir des points complexes, mais aussi de discuter des applications pratiques des bases de données abordées.
-
----
-
-3. **Travailler sur les TP** : Pour appliquer les concepts vus dans les cours, référez-vous au dossier [TP](../tp).
-4. **Consulter les ressources supplémentaires** : Les données nécessaires pour exécuter ces TPs se trouvent dans le dossier [ressources](../docs/ressources). Les fichiers volumineux nécessaires pour certains TPs sont disponibles uniquement sur la plateforme **Moodle**. Veillez à les télécharger directement depuis Moodle avant de commencer les exercices correspondants.  
-
+1. **Lire les cours** : Chaque fichier PDF contient des explications théoriques. Lisez-les dans l'ordre pour suivre une progression logique.
+2. **Participer aux séances en classe** : Les concepts clés sont approfondis et illustrés avec des exemples concrets pendant les séances collectives. Ces échanges sont cruciaux pour maîtriser le contenu du cours.
+3. **Travailler sur les TP** : Les exercices pratiques associés se trouvent dans le dossier [TP](../tp). Ces travaux pratiques vous permettront d'appliquer les notions vues en cours.
+4. **Consulter les ressources supplémentaires** : Les fichiers nécessaires pour les TPs sont disponibles dans le dossier [ressources](../docs/ressources). Les fichiers volumineux spécifiques à certains exercices doivent être téléchargés depuis **Moodle**.
 
 ---
 
 ## Contact
 
-Si vous avez des questions sur les cours ou les exercices, n'hésitez pas à me contacter :  
+Si vous avez des questions sur les cours ou les exercices, vous pouvez me contacter :  
 **Email** : sakkari.tn@gmail.com , msakkari@univ-lr.fr
 
