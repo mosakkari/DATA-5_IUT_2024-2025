@@ -16,7 +16,7 @@ Les cours sont présentés sous forme de fichiers PDF détaillant les concepts c
 2. **Exploitation d’un entrepôt de données OLAP (Entrepôt de données ,Cubes
 OLAP et opérations OLAP (roll up, drill down, slice, dice))**
 3. **L’Informatique Décisionnelle**
-   - ( Étude de cas : appliquer des concepts théoriques sur des données réelles pour montrer comment l'OLAP peut être utilisé pour répondre à des questions stratégiques, à l'aide de décision)  
+   - Étude de cas : appliquer des concepts théoriques sur des données réelles pour montrer comment l'OLAP peut être utilisé pour répondre à des questions stratégiques, à l'aide de décision).
 ---
 
 ## Évaluation
